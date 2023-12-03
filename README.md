@@ -3,7 +3,7 @@ GeoJSON files containing geographic data related to Israeli operation "Swords of
 
 Data includes:
 - Gaza boundaries and buffer zones.
-- Extent of desctruction.
+- Extent of destruction.
 - Extent of Israeli military incursions.
 - Israeli-defined neighbourhood blocks (for ordering evacuations).
 - Selected geographic features.
